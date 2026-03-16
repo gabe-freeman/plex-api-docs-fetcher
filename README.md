@@ -1,4 +1,4 @@
-# playwright-doc-fetcher
+Plex API Docs Fetcher
 
 Scrapes the [Plex Developer API documentation](https://developers.plex.com) and compiles all API endpoints, operations, and parameters into a single `plex_api_docs.json` file.
 
